@@ -14,11 +14,13 @@ This page concentrates on the main route Lisbon-Santarém-Tomar-Coimbra-Porto-Ba
   
 Between Lisbon and Santarém, and between Ansião and Porto, this route is coincident with the [routes to Fátima][2] developed by the Centro Nacional de Cultura, and marked with blue arrows in the direction of Fátima and yellow in the direction of Santiago. So, between Santarém and Ansião, pilgrims have a choice between a blue/yellow route via Fátima and a yellow route via Tomar.  
   
-For description and photos of the Porto-Valenca route, see the site of the [Associação dos Amigos do Caminho Português de Santiago][3] (Ponte de Lima) or the website of the [Alberghe at Rates][4]. There is further information on the stretch in Paredes de Coura on the website of the [Camara Municipal][5].  
+For description and photos of the Porto-Valenca route, see the site of the [Associação dos Amigos do Caminho Português de Santiago][3] (Ponte de Lima) or the website of the [Albergue at Rates][4]. There is further information on the stretch in Paredes de Coura on the website of the [Camara Municipal][5].  
   
 For the Spanish section, the **Camino Portugués**, there is a guide on [Mundicamino][6].  
   
 See separate pages for variants north of Porto: the [Camino Portugués de la Costa][7], [Porto-Braga][8], and [Caminho Português do Norte/Camino Portugués del Norte][9].
+
+Alternatively, you can also follow the pilgrimage route from **Lisbon to Fátima Sanctuary to Santiago** as posted at the [Associação de Amigos dos Caminhos de Fátima][10] page ([Google Maps/Earth KMZ coordinates available][11]). This trail does not go through Tomar but directions/coordinates for such side trip are included. It is marked in Yellow (Santiago direction) and Blue (Fátima direction).
 
 [0]: http://www.amigosdelcamino.com/web/caminos/presen.php?idi=C&fot=camino&cod=2
 [1]: http://caminhocentralasantiago.blogspot.com/p/guia-caminho-central.html
@@ -30,3 +32,5 @@ See separate pages for variants north of Porto: the [Camino Portugués de la Cos
 [7]: portcosta.html
 [8]: braga.html
 [9]: portnorte.html
+[10]: http://www.caminho.com.pt/index_e.html
+[11]: http://www.caminho.com.pt/mapas.html
